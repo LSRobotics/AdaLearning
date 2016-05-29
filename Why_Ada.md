@@ -1,0 +1,11 @@
+#Why Ada?
+
+Ada is named after one of the greatest, and earliest programmers in the world - Ada Lovelace. She wrote down world's first line of code in history - but never actually tested it on a single computer. (of course, she mentally proved its correctness ;)
+![Ada](http://a3.files.biography.com/image/upload/c_fit,cs_srgb,dpr_1.0,h_1200,q_80,w_1200/MTE4MDAzNDEwODQwOTQ2MTkw.jpg)
+
+Named under such an important programmer, Ada is also very important. Different from other 'rookie' languages, such as Python and PHP, where the development is community-driven, Ada is first developed by the US military, published as a military standard (ANSI/MIL-STD-1815A). Later, the development of Ada is handed on to the International Stantard Organization (ISO), where further standards are published (ISO/IEC 8652:1983, ISO/IEC 8652:1995, ISO/IEC 8652:2005, ISO/IEC 8652:2012). Unlike Java, which is fully-compatible downwards, each version of Ada is relatively different and not fully compatible.
+
+Why is Ada important? Ada is intended to be a language used in two areas - mission critical large-software development and mission critical critical software development ( :P ). By large-software, think of the software that controls an entire factory. By critical software, think of the software that controls a nuclear station or a powerplant or a space station. Most of such systems in the world today are controlled by different versions of Ada, ranging from the earliest Ada 83 to the latest Ada 2012.
+Ada is a strong-typed, object-oriented, compiled language, that inherits the very best characteristics from CPL and Algol 60, while borrowing some traits from C, C++ and Java during its own evolution. Ada is very mathmatically sophisticated, designed for scientific modling; Ada is also memory safe, having much of its safety ensured by its strong typing system, sophistically designed use of pointers, and the seperation of declaration and expression. The size of Ada is slightly bigger than C or Java, possibly equivalent to the size of C++.
+
+Finally, Ada is unique, sophisticated, and outstanding. By learning Ada, one will learn the history and evolution of programming languages, as well as the best practices of programming a large piece of software. The feeling of learning Ada is kind of like a person getting to know LISP, but more practical.
