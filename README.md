@@ -1,5 +1,5 @@
 # AdaLearning
-A tutorial for Ada 2012.
+A tutorial for Ada 2012. New here? Check out [Why Ada?](https://github.com/team5181/AdaLearning/blob/master/Why_Ada.md).
 
 ##Structure
 Course contents are organized in chapters.
