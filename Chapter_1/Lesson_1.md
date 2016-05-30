@@ -21,7 +21,7 @@ Secondly, a Java or Python programmer might also notice that Ada organizes code 
 public static void Get_Square_Root() {
     float X;
     Scanner s = new Scanner();
-    X = X.hasNextFloat();
+    X = s.hasNextFloat();
     System.out.println(Math.sqrt(X));
 }
 ```
