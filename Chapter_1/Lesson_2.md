@@ -27,14 +27,13 @@ while(X!= 0.0) {
 ```
 Except in Ada you're able to control when `exit` is executed, whereas in most C-derived languages, you can only put such clause in either the beginning or the end.
 
-##function returns
-In most procedural or OOP languages, a function returns a value. This becomes really obvious in C or C++, where the function can return `void` even if no data is returned. This is different in Ada, where without the declaration of `return`, a procedure in Ada defaults to `void`.
+##Difference between Procedures and functions
 
 But how to write a procedure that returns a value? Let's take a look at a specific example:
 ```
 with Simple_IO;
 ...
-procedure Get_Shoe_Maker return String is -- returns the name of Shoe Maker received via stdin
+function Get_Shoe_Maker return String is -- returns the name of Shoe Maker received via stdin
     use Simple_IO;
     Shoe_Maker: String;
 begin
