@@ -25,9 +25,8 @@ end Test_Procedure;
 ```
  Whereas a function is written as:
  ```
- function Test_Function is
-  returns Void;
-
+ function Test_Function return Void is
+   -- ...
 begin
  return;
 end Test_Procedure;
